@@ -16,7 +16,7 @@ modprobe wl
 
 # useful commands: 
 
-wifi card
+wifi card\n
 lspci | grep BCM
 
 kernel version
