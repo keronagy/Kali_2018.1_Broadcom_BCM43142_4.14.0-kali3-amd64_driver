@@ -18,12 +18,10 @@ modprobe wl
 
 # useful commands: 
 
-wifi card
-<br />
+# wifi card
 lspci | grep BCM
-<br />
-kernel version
-<br />
+
+# kernel version
 uname -r
 
 
