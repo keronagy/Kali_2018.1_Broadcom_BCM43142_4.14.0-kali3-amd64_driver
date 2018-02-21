@@ -7,19 +7,23 @@ https://packages.debian.org/sid/all/broadcom-sta-dkms/download
 # then execute this commands: 
 
 apt update && apt dist-upgrade
+<br />
 apt install gdebi linux-headers-4.14.0-kali3-amd64
 
-# after downloading just download broadcom-sta-dkms_6.30.223.271-7_all.deb google it then cd to the downloded file then execute
+# after downloading .deb file cd to the downloded file then execute
 
 gdebi downloaded_file.deb
+<br />
 modprobe wl
 
 # useful commands: 
 
-wifi card\n
+wifi card
+<br />
 lspci | grep BCM
-
+<br />
 kernel version
+<br />
 uname -r
 
 
