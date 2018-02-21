@@ -1,5 +1,5 @@
 # broadcom_BCM43142_4.14.0-kali3-amd64_driver
-how to make the wifi (BCM43142) works in kali 4.14.0 
+how to make the wifi (BCM43142) works in kali 2018.1 ( 4.14.0) 
 you can download the driver from the repository or from here
 
 https://packages.debian.org/sid/all/broadcom-sta-dkms/download
